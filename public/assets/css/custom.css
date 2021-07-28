@@ -1,0 +1,31 @@
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #4679cc  !important;
+}
+
+.table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td:first-child:before, table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > th:first-child:before, table.dataTable.dtr-column > tbody > tr > td.control:before, table.dataTable.dtr-column > tbody > tr > th.control:before {
+
+    background-color: #4679cc !important;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #4679cc;
+    border-color: #4679cc;
+}
+
+.pagination .page-link:hover {
+    background-color: #0c7cd5 !important;
+    color: #fff;
+}
+
+a {
+    color: #4679cc;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover {
+    color: #0c7cd5;
+    text-decoration: underline;
+}
